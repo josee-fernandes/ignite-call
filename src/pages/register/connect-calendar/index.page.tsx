@@ -33,8 +33,6 @@ export default function ConnectCalendar() {
           </Button>
         </ConnectItem>
 
-        <pre>{JSON.stringify(session.data, undefined, 3)}</pre>
-
         <Button type="submit">
           Próximo passo <ArrowRight />
         </Button>
